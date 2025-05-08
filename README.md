@@ -12,32 +12,13 @@ Campus Critics is a website where students can **rate professors**, **share cour
 - 📊 View professor pages with **weighted average scores**
 - 🗣️ Post and comment in the **community forum** 
 
-## 📁 Project Structure
-end/
-│
-├── main.py # Flask app: routes, views, OTP logic
-├── change.py # Additional routing or review changes
-├── database.py # DB creation and seeding
-├── database.db # SQLite database file
-├── users.csv # Sample user data
-├── modified.csv # Sample professor or rating data
-├── .env # Environment variables (SMTP config)
-├── templates/ # HTML templates (UI views)
-│ ├── login.html
-│ ├── dashboard.html
-│ ├── professor.html
-│ ├── community.html
-│ └── ...
-└── README.md # You're reading it!
-
-
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Backend**: Python (Flask)  
-- **Frontend**: HTML, CSS, Bootstrap  
-- **Database**: SQLite  
+- **Frontend**: HTML, CSS, Javascript 
+- **Database**: SQLite3
 - **Authentication**: Email OTP via SMTP  
 - **Environment Management**: python-dotenv  
 
