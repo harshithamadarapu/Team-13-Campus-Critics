@@ -12,8 +12,6 @@ Campus Critics is a website where students can **rate professors**, **share cour
 - 📊 View professor pages with **weighted average scores**
 - 🗣️ Post and comment in the **community forum** 
 
----
-
 ## Tech Stack
 
 - **Backend**: Python (Flask)  
@@ -22,7 +20,6 @@ Campus Critics is a website where students can **rate professors**, **share cour
 - **Authentication**: Email OTP via SMTP  
 - **Environment Management**: python-dotenv  
 
----
 
 ## ⚙️ Setup Instructions (Run Locally)
 
@@ -31,3 +28,9 @@ Campus Critics is a website where students can **rate professors**, **share cour
    git clone https://github.com/yourusername/campus-critics.git
    cd campus-critics/end
 
+
+2. **Create a virtual environment**
+     ```bash
+python -m venv venv
+source venv/bin/activate        # macOS/Linux
+venv\Scripts\activate           # Windows
