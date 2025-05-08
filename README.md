@@ -28,18 +28,7 @@ Campus Critics is a website where students can **rate professors**, **share cour
    git clone https://github.com/yourusername/campus-critics.git
    cd campus-critics/end
 
-2. **Install dependencie**
-
+2. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
-
-   
-   
-
-
-
-
-
-
-   
