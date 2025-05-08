@@ -35,4 +35,11 @@ Campus Critics is a website where students can **rate professors**, **share cour
    source venv/bin/activate        # macOS/Linux
    venv\Scripts\activate           # Windows
 
+3. **Install dependencie**
+
+
+   ```bash
+   pip install -r requirements.txt
+
+
    
