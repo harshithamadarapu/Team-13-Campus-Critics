@@ -21,16 +21,18 @@ Campus Critics is a website where students can **rate professors**, **share cour
 - **Environment Management**: python-dotenv  
 
 
-## ⚙️ Setup Instructions (Run Locally)
+## Setup Instructions (Run Locally)
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/campus-critics.git
    cd campus-critics/end
 
-
 2. **Create a virtual environment**
-     ```bash
-python -m venv venv
-source venv/bin/activate        # macOS/Linux
-venv\Scripts\activate           # Windows
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate        # macOS/Linux
+   venv\Scripts\activate           # Windows
+
+   
