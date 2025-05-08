@@ -28,28 +28,12 @@ Campus Critics is a website where students can **rate professors**, **share cour
    git clone https://github.com/yourusername/campus-critics.git
    cd campus-critics/end
 
-2. **Create a virtual environment**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate        # macOS/Linux
-   venv\Scripts\activate           # Windows
-
-3. **Install dependencie**
+2. **Install dependencie**
 
 
    ```bash
    pip install -r requirements.txt
    
-4. **Configure the `.env` file**
-
-   Create a file named `.env` inside the `end/` directory and add your email credentials for OTP
-
-   
-5. **Initialize the database**
-
-```bash
-python database.py
 
 
 
