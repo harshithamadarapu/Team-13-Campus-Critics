@@ -33,6 +33,10 @@ Campus Critics is a website where students can **rate professors**, **share cour
 
    ```bash
    pip install -r requirements.txt
+
+   ---
+
+   
    
 
 
