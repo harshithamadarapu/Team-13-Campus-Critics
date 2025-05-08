@@ -40,6 +40,22 @@ Campus Critics is a website where students can **rate professors**, **share cour
 
    ```bash
    pip install -r requirements.txt
+   
+4. **Configure the `.env` file**
+
+   Create a file named `.env` inside the `end/` directory and add your email credentials for OTP:
+   EMAIL_USER=your_email@example.com
+   EMAIL_PASS=your_email_app_password
+
+   
+5. **Initialize the database**
+
+```bash
+python database.py
+
+
+
+
 
 
    
